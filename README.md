@@ -1,2 +1,1 @@
-# number-guessing-game
-a pyhton project to understand functions, scopes and global variables
+![Screenshot 2025-01-17 110620](https://github.com/user-attachments/assets/5ba3688d-d385-489d-9e74-34390235a270)
